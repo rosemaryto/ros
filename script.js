@@ -96,3 +96,10 @@
 // total = (x + y);
 // window.console.log(total);
 
+//STEP 18
+// var x = 20;
+// total = (x + x);
+// window.console.log(total);
+
+
+
