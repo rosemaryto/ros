@@ -101,5 +101,13 @@
 // total = (x + x);
 // window.console.log(total);
 
+//STEP 19
+// var x = 20;
+// total = (x * 5);
+// window.console.log(total);
+
+
+
+
 
 
